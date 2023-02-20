@@ -16,8 +16,6 @@ Feel free to connect with me on the following platforms:
 - Twitter: https://twitter.com/PawanKu27113141
 - Email: pawanandaman@gmail.com
 
-<br />
-
 ### Skills and Tools
 Here are some of the tools and technologies I'm familiar with:
 
@@ -27,8 +25,6 @@ Here are some of the tools and technologies I'm familiar with:
 - Databases: MySQL
 - Other tools: Git, GitHub, Jupyter Notebook, VS Code, Atom
 
-<br />
-<br />
 
 ### 📕 Latest Blog Posts
 
