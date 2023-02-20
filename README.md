@@ -1,6 +1,6 @@
 # Hi there, I'm [Pawan Kumar](https://pawanbgs0.github.io/Portfolio/) 👋
 
-## I'm a budding Software Engineer, Writer, and Teacher!
+## I'm a budding Software Engineer and an Amateur writer
 
 - 🔭 I’m currently working on a few side projects using React, Node, and MongoDB!
 - 🌱 I’m currently learning more about AWS and DevOps.
